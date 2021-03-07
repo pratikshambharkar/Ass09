@@ -1,0 +1,23 @@
+create table movies (
+      movie_id number primary key,
+      movieName varchar(50),
+      movieType varchar(50),
+      language varchar(10),
+      releaseDate date,
+      casting varchar(100),
+      rating decimal(1,1),
+      totalBusinessDone decimal(4,2)
+    );
+
+
+create sequence movie_id_seq;
+
+
+create trigger trg_movie_id
+      before insert on movies
+      for each row
+    begin
+      select movie_id_seq.nextval
+        into :new.movie_id
+        from dual;
+    end;

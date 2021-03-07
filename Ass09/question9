@@ -1,0 +1,42 @@
+
+1.Create Class Movies with following data members
+	Class Movie (all members should be private)
+	Int movieId, 
+	String movieName, 
+	Category movieType, 
+	Language language, 
+	Date releaseDate, 
+	List<String> casting
+	Double rating
+	Double totalBusinessDone
+
+2.Read data from movieDetails File 
+List<Movie> populateMovies(File file)
+
+3.Store all movie details into database
+Boolean allAllMoviesInDb(List<Movie> movies)
+
+4.Add new movie in the list
+void addMovie(Movie movie,List<Movie> movie)
+
+5.Serialize movie data in the provided file in the given project directory
+Void serializeMovies(List<Movies movies, String fileName)
+
+6.Deserialize movies  from given files
+List<Movie> deserializeMovie(String filename)
+
+7.Find the Movies realeased in entered year
+List<Movie> getMoviesRealeasedInYear(int year)
+
+8.Find the list of movies by actor
+List<Movies> getMoviesByActor(String… actorNames)
+
+9.Update Movie Rating
+Void updateRatings(Movie movie, double rating ,List<Movie> movies)
+
+10.Update Business Done by Movie
+Void updateBusiness(Movie movie, double amount,List<Movie> movies)
+
+11.Find the set of movies as per the review comments  done business more than entered amount descending order of amount
+Map<<Language>,Set<Movies> businessDone(double amount)
+

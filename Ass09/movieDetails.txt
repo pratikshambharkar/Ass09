@@ -1,0 +1,8 @@
+1,Sholay,Action-Adventure-Comedy,Hindi,15/08/1975,Dharmendra-Amitabh Bachchan-Amjad Khan-Hema Malini,8.2,198
+2,Uri: The Surgical Strike,Action-Drama-War,Hindi,11/01/2019,Vicky Kaushal - Yami Gautam -Paresh Rawal,8.4,138
+3,Gully Boy,Drama - Music,Hindi,14/02/2019,Ranveer Singh - Alia Bhatt - Siddhant Chaturvedi,8.2,153
+4,Total Dhamaal,Action-Adventure-Comedy,Hindi,22/02/2019,Riteish Deshmukh- Arshad Warsi -Javed Jaffrey- Ajay Devgn -Anil Kapoor- Madhuri Dixit-Jackie Shroff ,4.3,130
+5,Kesari,Action-Drama-History,Hindi,21/03/2019,Akshay Kumar-Parineeti Chopra-Mir Sarwar,7.4,150
+6,Student of the Year 2,Drama-Romance-Sport,Hindi,10/05/2019,Tiger Shroff- Ananya Panday- Tara Sutaria- Alia Bhatt,2.5,146
+7,Article 15,Crime-Drama,Hindi,28/06/2019,Ayushmann Khurrana,8.3,130
+8,Action Jackson,Action-Thriller,Hindi,05/12/2014,Ajay Devgn-Yami Gautam,3.2,144
